@@ -167,7 +167,7 @@ GEM
 
 PLATFORMS
   -darwin-20
-  -linux
+  x86_64-linux
 
 DEPENDENCIES
   bcrypt (~> 3.1.7)
